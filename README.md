@@ -1,5 +1,9 @@
 # Quality Assurance
 
+## Testing Frameworks
+- **Mocha** — JavaScript test framework
+- **Chai** — Assertion library for writing tests
+
 ## Tests
 - Unit Testing
 - Functional Testing
