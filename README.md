@@ -1,4 +1,4 @@
-# quality-assurance-mocha-chai
+# Quality Assurance
 
 ## Tests
 - Unit Testing
